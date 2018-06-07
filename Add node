@@ -1,0 +1,4 @@
+./lobstex-cli addnode 45.32.124.181 add
+./lobstex-cli addnode 45.76.147.201 add
+./lobstex-cli addnode 45.32.99.149 add
+./lobstex-cli addnode 140.82.51.186 add
